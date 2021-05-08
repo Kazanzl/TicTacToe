@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Simple Tic-Tac-Toe game made with pygame. AI optimized with alpha-beta pruning.
+CS50's Tic-Tac-Toe game made with pygame. AI optimized with alpha-beta pruning.
 
 ## Requirements
 - Python installed.
